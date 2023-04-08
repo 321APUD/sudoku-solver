@@ -5,8 +5,9 @@ c++ console application that solves sudokus. It reads puzzles from file and have
 
 Program takes 1-2 arguments. First is a path to file with usolved sudokus and the second is optional path to file where the answears will be written.
 Syntax:
-```sudoku-solver.exe <input-file> [<output-file>]```
-file with sudokus format:
+```bash
+sudoku-solver.exe <input-file> [<output-file>]```
+input-file format:
   1. sudokus are only lines that star with a number.
   2. each row is written in one line where empty cells are zeros.
 ex: 
