@@ -10,15 +10,15 @@ sudoku-solver.exe <input-file> [<output-file>]
 ```
 input-file format:
   1. sudokus are only lines that star with a number.
-  2. each row is written in one line where empty cells are zeros.\n
-ex: \n
-003020600\n
-900305001\n
-001806400\n
-008102900\n
-700000008\n
-006708200\n
-002609500\n
-800203009n\
-005010300n\
+  2. each row is written in one line where empty cells are zeros.<br />
+ex: <br />
+003020600<br />
+900305001<br />
+001806400<br />
+008102900<br />
+700000008<br />
+006708200<br />
+002609500<br />
+800203009<br />
+005010300<br />
 more examples in sudokus.txt file.
