@@ -1,5 +1,5 @@
 # sudoku-solver
-c++ console application that solves sudokus. It reads puzzles from file and have an option to write the answears to a file.
+C++ console application that solves sudokus. It reads puzzles from file and have an option to write the answears to a file.
 
 # How to use
 
