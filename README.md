@@ -21,4 +21,4 @@ ex: <br />
 002609500<br />
 800203009<br />
 005010300<br />
-more examples in sudokus.txt file.
+More examples in sudokus.txt file.
