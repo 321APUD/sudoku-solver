@@ -8,7 +8,7 @@ Syntax:
 ```bash
 sudoku-solver.exe <input-file> [<output-file>]
 ```
-input-file format:
+Input-file format:
   1. sudokus are only lines that star with a number.
   2. each row is written in one line where empty cells are zeros.<br />
 ex: <br />
