@@ -11,7 +11,7 @@ sudoku-solver.exe <input-file> [<output-file>]
 Input-file format:
   1. sudokus are only lines that star with a number.
   2. each row is written in one line where empty cells are zeros.<br />
-ex: <br />
+example: <br />
 003020600<br />
 900305001<br />
 001806400<br />
@@ -21,4 +21,5 @@ ex: <br />
 002609500<br />
 800203009<br />
 005010300<br />
+
 More examples in sudokus.txt file.
